@@ -1,0 +1,5 @@
+#surefire
+#Wed Mar 22 17:44:46 CST 2017
+user.dir=D\:\\osgiworkspace\\login
+localRepository=D\:\\apache-maven-3.0.5\\repository
+basedir=D\:\\osgiworkspace\\login

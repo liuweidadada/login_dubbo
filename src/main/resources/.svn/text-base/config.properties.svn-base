@@ -1,0 +1,18 @@
+#application configs
+#jdbc c3p0 config
+jdbc.driver=com.mysql.jdbc.Driver
+#jdbc.url = jdbc:mysql://127.0.0.1:3309/mqtt?characterEncoding=utf8
+#jdbc.username = root
+#jdbc.password = 123456
+#jdbc.url=jdbc:mysql://127.0.0.1:3309/appmarket?characterEncoding=utf8
+#jdbc.username=root
+#jdbc.password=123456
+jdbc.url=jdbc:mysql://10.4.120.231:3306/appmarket?characterEncoding=utf8
+jdbc.username=root
+jdbc.password=123456
+
+#hibernate config
+hibernate.dialect = org.hibernate.dialect.MySQLDialect
+hibernate.show_sql = true
+hibernate.format_sql = false
+hibernate.hbm2ddl.auto = update
